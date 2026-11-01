@@ -1,0 +1,6 @@
+JobRole,Skills
+Data Analyst,"python,sql,excel,pandas,power bi"
+Machine Learning Engineer,"python,machine learning,scikit-learn,docker,fastapi"
+AI Engineer,"python,deep learning,llm,nlp"
+NLP Engineer,"python,nlp,transformers,hugging face"
+Python Developer,"python,flask,fastapi,sql,git"
