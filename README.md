@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI Resume Analyzer and Job Recommendation System
 
 ## Project Description
@@ -39,3 +40,4 @@ python -m streamlit run app.py --server.headless true --server.port 8502
 ## By
 
 Mannam Mahathi
+# Mahathi_Ai_resume_analyser2-26    
